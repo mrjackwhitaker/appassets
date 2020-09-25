@@ -1419,5 +1419,5 @@ __d(function(s,e,f,a,t,c,d){t.exports=e(d[0]).registerAsset({__packager_asset:!0
 __d(function(a,s,e,t,c,d,f){c.exports=s(f[0]).registerAsset({__packager_asset:!0,httpServerLocation:"/assets/assets/fonts",scales:[1],hash:"2ceadd10ca85adca14362906f2379fdc",name:"SF-UI-Display-Regular",type:"otf",fileHashes:["2ceadd10ca85adca14362906f2379fdc"]})},1413,[189]);
 __r(97);
 __r(0);
-//# sourceMappingURL=http://127.0.0.1:19001/index.map?dev=false&minify=true&hot=false&platform=ios
-//# sourceURL=http://127.0.0.1:19001/index.bundle?dev=false&minify=true&hot=false&platform=ios
+//# sourceMappingURL=http://127.0.0.1:19004/index.map?dev=false&minify=true&hot=false&platform=ios
+//# sourceURL=http://127.0.0.1:19004/index.bundle?dev=false&minify=true&hot=false&platform=ios
